@@ -2,9 +2,6 @@
 <h3 align="center">A passionate full stack developer from Sénégal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bassbiteye&label=Profile%20views&color=0e75b6&style=flat" alt="bassbiteye" /> </p>
-
-##<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?##username=bassbiteye" alt="bassbiteye" /></a> </p>*/
-
 <p align="left"> <a href="https://twitter.com/bassbiteye45" target="blank"><img src="https://img.shields.io/twitter/follow/bassbiteye45?logo=twitter&style=for-the-badge" alt="bassbiteye45" /></a> </p>
 
 - 🔭 I’m currently working on [eva](https://eva.sn)
