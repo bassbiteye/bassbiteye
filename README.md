@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **bassbiteye45@gmail.com**
 
-- 📄 Know about my experiences [+ 1 year](+ 1 year)
+- 📄 Know about my experiences [+ 3 year](+ 3 year)
 
 - ⚡ Fun fact **i think i am funny and open**
 
